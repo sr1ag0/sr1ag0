@@ -28,14 +28,6 @@ Sou um desenvolvedor **Front-End em formação** 🚀, apaixonado por criar inte
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sr1ag0&show_icons=true&theme=radical&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sr1ag0&layout=compact&theme=radical)
-
----
-
 ## 🚀 Meus Projetos em Destaque
 
 ### 1️⃣ [Projeto em Desenvolvimento](https://github.com/sr1ag0)
